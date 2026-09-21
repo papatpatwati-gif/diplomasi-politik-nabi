@@ -10,7 +10,7 @@ export default defineConfig({
         {
           label: 'Mulai Dari Sini',
           items: [
-            { label: 'Pendahuluan', slug: 'pengantar' },
+            { label: 'Pengantar', slug: 'pengantar' },
             { label: 'Daftar Rujukan & Referensi', slug: 'referensi' },
           ],
         },
