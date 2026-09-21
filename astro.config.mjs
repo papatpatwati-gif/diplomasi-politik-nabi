@@ -6,6 +6,10 @@ export default defineConfig({
     starlight({
       title: 'Diplomasi & Strategi Politik ala Nabi',
       description: 'Meneladani kepemimpinan, diplomasi, dan strategi politik Rasulullah ﷺ secara multidimensi.',
+	    customCss: [
+        // Tambahkan baris ini
+        './src/styles/custom.css',
+      ],
       sidebar: [
         {
           label: 'Mulai Dari Sini',
