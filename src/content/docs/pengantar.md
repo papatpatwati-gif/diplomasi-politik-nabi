@@ -1,7 +1,52 @@
 ---
-title: Pendahuluan
-description: Pengantar kajian diplomasi dan strategi politik Nabi.
+title: "Pendahuluan"
+description: "Pengantar diplomasi, kepemimpinan, dan strategi politik Rasulullah ﷺ secara multidimensi."
 ---
 
-# Pendahuluan
-Halaman pendahuluan sedang dalam penyusunan.
+import { Tabs, TabItem } from '@astrojs/starlight/components';
+
+Studi tentang perjalanan hidup Rasulullah ﷺ (*Sirah Nabawiyah*) sering kali dipahami sebatas narasi spiritual dan pertempuran fisik. Padahal, di balik dinamika dakwah beliau, terhampar arsitektur geopolitik, seni diplomasi tingkat tinggi, dan strategi ketatanegaraan yang sangat presisi. E-book ini hadir untuk membedah dimensi kepemimpinan politik dan diplomasi Nabi Muhammad ﷺ secara komprehensif.
+
+---
+
+## 1. Latar Belakang & Urgensitas Studi
+
+Sering timbul dikotomi keliru yang memisahkan antara kesucian agama dan realitas politik. Dalam rekam jejak sejarah Madinah, Rasulullah ﷺ membuktikan bahwa kekuasaan politik (*sulthan*) dan hukum konstitusi merupakan instrumen penting untuk mewujudkan keadilan sosial, melindungi hak asasi manusia, serta menjaga perdamaian internasional.
+
+* **Relevansi Historis:** Memahami bagaimana sebuah masyarakat kesukuan yang terpecah belah di Jazirah Arab berhasil disatukan menjadi kekuatan peradaban dunia dalam waktu kurang dari tiga dekade.
+* **Relevansi Modern:** Menggali prinsip-prinsip *Siyasah Syar'iyyah* yang dapat ditransformasikan ke dalam konteks tata kelola negara, tata hukum internasional, dan manajemen krisis era modern.
+
+---
+
+## 2. Peta Jalan Pembahasan E-Book
+
+Buku digital ini dibagi menjadi tiga pilar utama pembahasan untuk memudahkan navigasi pemahaman Anda:
+
+<Tabs>
+  <TabItem label="Bagian I: Dalam Negeri">
+    **Fondasi & Kebijakan Dalam Negeri**
+    
+    Fokus pada konsolidasi internal, pembentukan mindset masyarakat di Makkah, peletakan konstitusi tertulis pertama (Piagam Madinah), serta pembangunan jaringan intelijen internal.
+  </TabItem>
+  <TabItem label="Bagian II: Luar Negeri">
+    **Diplomasi & Geopolitik Luar Negeri**
+    
+    Membedah manuver diplomasi internasional, gencatan senjata strategis (Perjanjian Hudaibiyah), serta pengiriman utusan diplomatik dan surat-surat resmi ke para penguasa dunia (Romawi, Persia, Abyssinia, dll).
+  </TabItem>
+  <TabItem label="Bagian III: Manajemen Krisis">
+    **Krisis & Kemenangan Peradaban**
+    
+    Menganalisis strategi menghadapi koalisi musuh (Perang Ahzab), pendekatan *Soft Power* saat pembebasan Makkah (*Fathul Makkah*), dan ekstraksi formulasi strategi untuk era modern.
+  </TabItem>
+</Tabs>
+
+---
+
+## 3. Metodologi Analisis
+
+Penulisan dalam e-book ini menggabungkan dua pendekatan utama:
+
+1. **Pendekatan Teks Historiografi (Turots):** Mengacu pada karya-karya klasik sirah dan fiqh siyasah yang mutabar seperti *Fiqh as-Sirah* (Dr. M. Sa'id Ramadan Al-Bouthi), *Ar-Rahiq al-Makhtum* (Syaikh Shafiyurrahman Al-Mubarakfuri), *Al-Ahkam as-Sultaniyyah* (Imam Al-Mawardi), serta karya-karya Syaikh Taqiyuddin an-Nabhani (*At-Tafkīr*, *Nizhām al-Hukm*, *Aj-Jihaz al-Idari*).
+2. **Pendekatan Analisis Politik & Geopolitik Modern:** Membedah peristiwa sejarah menggunakan terminologi dan kerangka ilmu politik modern seperti *Soft Power*, *Intelligence Gathering*, *Deterrence Effect*, dan *Balance of Power*.
+
+> **Catatan Penggunaan:** Gunakan menu navigasi di sebelah kiri untuk berpindah antar-bab secara berurutan, atau manfaatkan fitur pencarian di bagian atas untuk menemukan topik spesifik.
