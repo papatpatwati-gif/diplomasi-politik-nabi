@@ -4,6 +4,10 @@ description: "Analisis komprehensif mengenai fase pembinaan di Makkah, strategi 
 ---
 import { Tabs, TabItem } from '@astrojs/starlight/components';
 import { CardGrid, Card, Tabs, TabItem, Steps } from '@astrojs/starlight/components';
+
+---
+
+
 Berdirinya sebuah entitas politik yang solid tidak pernah terjadi dalam ruang hampa. Sebelum negara Madinah tegak sebagai kekuatan geopolitik yang diperhitungkan di Jazirah Arab, Rasulullah ﷺ telah meletakkan rancang bangun arsitektur sosial dan pembinaan ideologis yang sangat fundamental. Bab ini membedah transformasi masyarakat dari fase pembinaan rahasia di Makkah hingga artikulasi kekuasaan dan integrasi sosio-ekonomi di Madinah.
 
 ---
