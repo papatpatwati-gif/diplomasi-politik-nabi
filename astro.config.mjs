@@ -1,4 +1,3 @@
-cat << 'EOF' > astro.config.mjs
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
@@ -43,4 +42,3 @@ export default defineConfig({
     }),
   ],
 });
-EOF
