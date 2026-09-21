@@ -2,11 +2,8 @@
 title: "Bab 1: Fondasi Kekuatan & Arsitektur Sosial"
 description: "Analisis komprehensif mengenai fase pembinaan di Makkah, strategi konsolidasi di Madinah, pembangunan Masjid Nabawi, dan konsolidasi sosial-ekonomi Muhajirin-Anshar."
 ---
-import { Tabs, TabItem } from '@astrojs/starlight/components';
+
 import { CardGrid, Card, Tabs, TabItem, Steps } from '@astrojs/starlight/components';
-
----
-
 
 Berdirinya sebuah entitas politik yang solid tidak pernah terjadi dalam ruang hampa. Sebelum negara Madinah tegak sebagai kekuatan geopolitik yang diperhitungkan di Jazirah Arab, Rasulullah ﷺ telah meletakkan rancang bangun arsitektur sosial dan pembinaan ideologis yang sangat fundamental. Bab ini membedah transformasi masyarakat dari fase pembinaan rahasia di Makkah hingga artikulasi kekuasaan dan integrasi sosio-ekonomi di Madinah.
 
@@ -28,17 +25,17 @@ Analisis ini diperkuat oleh Dr. M. Sa'id Ramadan Al-Bouthi dalam *Fiqh as-Sirah*
 
 Setibanya di Madinah (Yatsrib), langkah awal yang diambil Rasulullah ﷺ bukan mendirikan benteng militer, melainkan membangun tiga pilar arsitektur sosial-politik yang saling menguatkan.
 
-<CardGrid stack>
+<CardGrid>
   <Card title="1. Masjid Nabawi" icon="building">
     **Pusat Kontrol & Ideologi**
     
     Berfungsi sebagai markas besar pemerintahan, ruang musyawarah strategis, parlemen publik, serta pusat peradilan dan penerimaan utusan diplomatik.
   </Card>
   
-  <Card title="2. Dekrit Mu'akhat" icon="users">
+  <Card title="2. Dekrit Mu'akhat" icon="add-document">
     **Persaudaraan Sosial-Ekonomi**
     
-    Mengintegrasikan kaum Muhajirin dan Anshar untuk menghapus resiko gejolak sosial, kesenjangan ekonomi, serta mengikis fanatisme suku (*'ashabiyyah*).
+    Mengintegrasikan kaum Muhajirin dan Anshar untuk menghapus risiko gejolak sosial, kesenjangan ekonomi, serta mengikis fanatisme suku (*'ashabiyyah*).
   </Card>
   
   <Card title="3. Piagam Madinah" icon="document">
@@ -73,19 +70,17 @@ Stabilitas politik tidak mungkin tercapai tanpa kemandirian ekonomi. Di Madinah,
 
 <Tabs>
   <TabItem label="Model Monopoli (Sebelumnya)" icon="close">
-    * **Sistem Ribawi & Eksploitasi Modal**
-    * **Asimetri Informasi** yang merugikan produsen lokal
-    * **Monopoli Pasokan & Distorsi Harga** oleh tengkulak
+    - **Sistem Ribawi & Eksploitasi Modal**
+    - **Asimetri Informasi** yang merugikan produsen lokal
+    - **Monopoli Pasokan & Distorsi Harga** oleh tengkulak
   </TabItem>
   
-  <TabItem label="Model Pasar Bebas Syariah (Prophetik)" icon="approve">
-    * **Bebas Riba, Gharar, & Judi**
-    * **Transparansi Pasar** dan persaingan sehat
-    * **Restrukturisasi Kepemilikan & Akses Modal** terbuka bagi publik
+  <TabItem label="Model Pasar Bebas Syariah (Prophetik)" icon="check-circle">
+    - **Bebas Riba, Gharar, & Judi**
+    - **Transparansi Pasar** dan persaingan sehat
+    - **Restrukturisasi Kepemilikan & Akses Modal** terbuka bagi publik
   </TabItem>
 </Tabs>
-
-<br />
 
 An-Nabhani dalam *Nizhām al-Iqtishādi fī al-Islām* menganalisis strategi integrasi ekonomi ini melalui dua mekanisme utama:
 
@@ -98,6 +93,7 @@ An-Nabhani dalam *Nizhām al-Iqtishādi fī al-Islām* menganalisis strategi int
 </Steps>
 
 Imam Al-Mawardi dalam *Al-Ahkam as-Sultaniyyah* menegaskan bahwa kontrol negara terhadap pasar (*Hisbah*) dan kepastian iklim usaha yang adil merupakan kewajiban konstitusional seorang kepala negara (*Imam*) demi menjaga kemaslahatan publik (*Mashlahah Mursalah*), prinsip yang juga diagungkan oleh Ibnu Taimiyah dalam *As-Siyasah asy-Syar'iyyah*.
+
 ---
 
 ## 4. Analisis Komparatif: Struktur Politik Prophetik vs Modern
