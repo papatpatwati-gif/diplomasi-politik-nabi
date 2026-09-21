@@ -1,0 +1,80 @@
+:root {
+  /* Palet Warna: Hijau Emerald & Aksen Soft */
+  --sl-color-accent-low: #064e3b;
+  --sl-color-accent: #10b981;
+  --sl-color-accent-high: #d1fae5;
+  
+  /* Tipografi untuk keterbacaan tinggi */
+  --sl-content-font-size: 1.125rem;
+  --sl-line-height: 1.8;
+}
+
+/* Membuat teks konten lebih nyaman dibaca */
+.sl-markdown-content {
+  text-align: justify;
+  hyphens: auto;
+}
+
+/* Menghaluskan tampilan Heading */
+.sl-markdown-content h1, 
+.sl-markdown-content h2, 
+.sl-markdown-content h3 {
+  color: var(--sl-color-accent-high);
+  letter-spacing: -0.02em;
+  font-weight: 700;
+}
+
+/* Mempercantik Komponen Card */
+.card {
+  border: 1px solid var(--sl-color-gray-5) !important;
+  background: rgba(255, 255, 255, 0.03) !important;
+  backdrop-filter: blur(8px);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.card:hover {
+  border-color: var(--sl-color-accent) !important;
+  transform: translateY(-4px);
+  box-shadow: 0 12px 20px -10px rgba(0, 0, 0, 0.5);
+}
+
+/* Gaya untuk Blockquote (Kutipan Hadits/Analisis) */
+blockquote {
+  border-inline-start: 4px solid var(--sl-color-accent) !important;
+  background: rgba(16, 185, 129, 0.05) !important;
+  padding: 1.5rem !important;
+  border-radius: 0 0.75rem 0.75rem 0;
+  font-style: italic;
+  color: var(--sl-color-gray-2);
+  margin: 2rem 0 !important;
+}
+
+/* Styling Tabel Perbandingan agar tidak kaku */
+table {
+  display: table;
+  width: 100%;
+  border-radius: 12px;
+  overflow: hidden;
+  border: 1px solid var(--sl-color-gray-5);
+}
+
+thead th {
+  background-color: var(--sl-color-accent-low) !important;
+  color: white !important;
+  text-transform: uppercase;
+  font-size: 0.85rem;
+  letter-spacing: 0.05em;
+  padding: 1rem !important;
+}
+
+tbody tr:nth-child(even) {
+  background-color: rgba(255, 255, 255, 0.02);
+}
+
+/* Memberikan divider (garis horizontal) yang elegan */
+hr {
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(to right, transparent, var(--sl-color-accent), transparent);
+  margin: 4rem 0;
+}
