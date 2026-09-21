@@ -3,8 +3,6 @@ title: "Bab 1: Fondasi Kekuatan & Arsitektur Sosial"
 description: "Analisis komprehensif mengenai fase pembinaan di Makkah, strategi konsolidasi di Madinah, pembangunan Masjid Nabawi, dan konsolidasi sosial-ekonomi Muhajirin-Anshar."
 ---
 
-import { Card, CardGrid, Callout } from '@astrojs/starlight/components';
-
 Berdirinya sebuah entitas politik yang solid tidak pernah terjadi dalam ruang hampa. Sebelum negara Madinah tegak sebagai kekuatan geopolitik yang diperhitungkan di Jazirah Arab, Rasulullah ﷺ telah meletakkan rancang bangun arsitektur sosial dan pembinaan ideologis yang sangat fundamental. Bab ini membedah transformasi masyarakat dari fase pembinaan rahasia di Makkah hingga artikulasi kekuasaan dan integrasi sosio-ekonomi di Madinah.
 
 ---
