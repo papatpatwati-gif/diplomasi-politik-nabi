@@ -70,26 +70,31 @@ Stabilitas politik tidak mungkin tercapai tanpa kemandirian ekonomi. Di Madinah,
 
 <Tabs>
   <TabItem label="Model Monopoli (Sebelumnya)" icon="close">
-    - **Sistem Ribawi & Eksploitasi Modal**
-    - **Asimetri Informasi** yang merugikan produsen lokal
-    - **Monopoli Pasokan & Distorsi Harga** oleh tengkulak
+
+* **Sistem Ribawi & Eksploitasi Modal**
+* **Asimetri Informasi** yang merugikan produsen lokal
+* **Monopoli Pasokan & Distorsi Harga** oleh tengkulak
+
   </TabItem>
-  
-  <TabItem label="Model Pasar Bebas Syariah (Prophetik)" icon="check-circle">
-    - **Bebas Riba, Gharar, & Judi**
-    - **Transparansi Pasar** dan persaingan sehat
-    - **Restrukturisasi Kepemilikan & Akses Modal** terbuka bagi publik
+  <TabItem label="Model Pasar Bebas Syariah (Prophetik)" icon="approve">
+
+* **Bebas Riba, Gharar, & Judi**
+* **Transparansi Pasar** dan persaingan sehat
+* **Restrukturisasi Kepemilikan & Akses Modal** terbuka bagi publik
+
   </TabItem>
 </Tabs>
 
 An-Nabhani dalam *Nizhām al-Iqtishādi fī al-Islām* menganalisis strategi integrasi ekonomi ini melalui dua mekanisme utama:
 
 <Steps>
-1. **Reorganisasi Modal & Produksi**
+
+1. **Reorganisasi Modal & Produksi**  
    Masyarakat Anshar menawarkan penyertaan modal berupa tanah pertanian dan kurma, sedangkan Muhajirin membawa keahlian manajerial serta perdagangan (*entrepreneurship*). Sahabat seperti Abdurrahman bin Auf menolak bantuan hibah konsumtif dan memilih meminta akses langsung ke pasar (*"Tunjukkan di mana letak pasar"*).
 
-2. **Pembangunan Pasar Tandingan (Sūq al-Madīnah)**
+2. **Pembangunan Pasar Tandingan (Sūq al-Madīnah)**  
    Rasulullah ﷺ mendirikan pasar khusus bagi umat Islam yang bebas dari pajak sewa tanah (*kharaj/jizyah* pasar) dan praktik riba. Langkah ini memecah monopoli ekonomi Yahudi dan mengalihkan *center of commerce* ke tangan negara Madinah.
+
 </Steps>
 
 Imam Al-Mawardi dalam *Al-Ahkam as-Sultaniyyah* menegaskan bahwa kontrol negara terhadap pasar (*Hisbah*) dan kepastian iklim usaha yang adil merupakan kewajiban konstitusional seorang kepala negara (*Imam*) demi menjaga kemaslahatan publik (*Mashlahah Mursalah*), prinsip yang juga diagungkan oleh Ibnu Taimiyah dalam *As-Siyasah asy-Syar'iyyah*.
