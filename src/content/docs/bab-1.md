@@ -66,24 +66,20 @@ Syaikh Shafiyurrahman Al-Mubarakfuri dalam *Ar-Rahiq al-Makhtum* mencatat bahwa 
 
 Stabilitas politik tidak mungkin tercapai tanpa kemandirian ekonomi. Di Madinah, dominasi ekonomi awalnya berada di tangan komoditas kapitalis Yahudi (seperti Pasar Qainuqa') yang menerapkan sistem ribawi dan monopoli.
 
-### Transformasi Model Ekonomi
+## 3. Integrasi Ekonomi Muhajirin-Anshar & Reformasi Pasar
 
-<Tabs>
-  <TabItem label="Model Monopoli (Sebelumnya)" icon="close">
+Stabilitas politik tidak mungkin tercapai tanpa kemandirian ekonomi. Di Madinah, dominasi ekonomi awalnya berada di tangan komoditas kapitalis Yahudi (seperti Pasar Qainuqa') yang menerapkan sistem ribawi dan monopoli.
 
-* **Sistem Ribawi & Eksploitasi Modal**
-* **Asimetri Informasi** yang merugikan produsen lokal
-* **Monopoli Pasokan & Distorsi Harga** oleh tengkulak
-
-  </TabItem>
-  <TabItem label="Model Pasar Bebas Syariah (Prophetik)" icon="approve">
-
-* **Bebas Riba, Gharar, & Judi**
-* **Transparansi Pasar** dan persaingan sehat
-* **Restrukturisasi Kepemilikan & Akses Modal** terbuka bagi publik
-
-  </TabItem>
-</Tabs>
+```text
+=========================================================
+   TRANSFORMASI MODEL EKONOMI DARI JAHILIAH KE ISLAMI
+=========================================================
+Model Monopoli Yahudi   -->   Model Pasar Bebas Syariah
+---------------------         -------------------------
+- Sistem Ribawi               - Bebas Riba & Gharar
+- Asimetri Informasi          - Transparansi Pasar
+- Monopoli Pasokan            - Restrukturisasi Kepemilikan
+=========================================================
 
 An-Nabhani dalam *Nizhām al-Iqtishādi fī al-Islām* menganalisis strategi integrasi ekonomi ini melalui dua mekanisme utama:
 
