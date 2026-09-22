@@ -57,7 +57,7 @@ blockquote {
   box-shadow: 0 15px 30px -12px rgba(0, 0, 0, 0.6);
 }
 
-/* Styling Komponen Steps */
+/* Styling Komponen Steps (Bab 1) */
 .sl-steps {
   --sl-color-ascent: var(--sl-color-accent);
 }
@@ -111,54 +111,4 @@ hr {
   background-image: linear-gradient(to right, transparent, var(--sl-color-accent), transparent);
   opacity: 0.5;
   margin: 4rem 0;
-}
-
-/* Kustomisasi Khusus FAQ Konten Otomatis via Wrapper */
-.faq-section p:has(> strong:first-child) {
-  background: rgba(16, 185, 129, 0.08) !important;
-  border-left: 4px solid var(--sl-color-accent) !important;
-  padding: 1rem 1.25rem !important;
-  border-radius: 0 8px 8px 0;
-  margin-top: 2.5rem !important;
-  font-size: 1.2rem;
-}
-
-.faq-section p:not(:has(> strong:first-child)),
-.faq-section ul {
-  padding-left: 1.25rem;
-}
-
-/* Animasi Kustom untuk Logo Hero */
-@keyframes floatLogo {
-  0% {
-    transform: translateY(0px);
-  }
-  50% {
-    transform: translateY(-12px);
-  }
-  100% {
-    transform: translateY(0px);
-  }
-}
-
-.hero img {
-  animation: floatLogo 6s ease-in-out infinite;
-  filter: drop-shadow(0 10px 20px rgba(16, 185, 129, 0.15));
-}
-
-/* Kustomisasi Visual Tiga Pilar Arsitektur Sosial Madinah */
-.architecture-pillars .card {
-  border-top: 4px solid var(--sl-color-accent) !important;
-  background: linear-gradient(180deg, rgba(16, 185, 129, 0.05) 0%, rgba(20, 20, 20, 0.6) 100%) !important;
-  box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.5);
-}
-
-.architecture-pillars .card .title {
-  font-size: 1.35rem !important;
-  font-weight: 700 !important;
-  letter-spacing: -0.01em;
-}
-
-.architecture-pillars .card svg {
-  color: var(--sl-color-accent) !important;
 }
