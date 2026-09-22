@@ -130,3 +130,20 @@ hr {
   animation: floatLogo 6s ease-in-out infinite;
   filter: drop-shadow(0 10px 20px rgba(16, 185, 129, 0.15));
 }
+
+/* Kustomisasi Visual Tiga Pilar Arsitektur Sosial Madinah */
+.architecture-pillars .card {
+  border-top: 4px solid var(--sl-color-accent) !important;
+  background: linear-gradient(180deg, rgba(16, 185, 129, 0.05) 0%, rgba(20, 20, 20, 0.6) 100%) !important;
+  box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.5);
+}
+
+.architecture-pillars .card .title {
+  font-size: 1.35rem !important;
+  font-weight: 700 !important;
+  letter-spacing: -0.01em;
+}
+
+.architecture-pillars .card svg {
+  color: var(--sl-color-accent) !important;
+}

@@ -25,6 +25,7 @@ Analisis ini diperkuat oleh Dr. M. Sa'id Ramadan Al-Bouthi dalam *Fiqh as-Sirah*
 
 Setibanya di Madinah (Yatsrib), langkah awal yang diambil Rasulullah ﷺ bukan mendirikan benteng militer, melainkan membangun tiga pilar arsitektur sosial-politik yang saling menguatkan.
 
+<div class="architecture-pillars">
 <CardGrid>
   <Card title="1. Masjid Nabawi" icon="building">
     **Pusat Kontrol & Ideologi**
@@ -44,6 +45,7 @@ Setibanya di Madinah (Yatsrib), langkah awal yang diambil Rasulullah ﷺ bukan m
     Konstitusi tertulis pertama yang mengikat seluruh elemen heterogen Madinah (Muslim, Yahudi, dan Lintas Suku) dalam satu naungan kedaulatan hukum.
   </Card>
 </CardGrid>
+</div>
 
 ---
 
