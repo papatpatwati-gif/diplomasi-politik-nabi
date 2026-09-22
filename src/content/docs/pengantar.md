@@ -3,7 +3,7 @@ title: "Pendahuluan"
 description: "Pengantar diplomasi, kepemimpinan, dan strategi politik Rasulullah ﷺ secara multidimensi."
 ---
 
-import { Tabs, TabItem } from '@astrojs/starlight/components';
+import { CardGrid, Card } from '@astrojs/starlight/components';
 
 Studi tentang perjalanan hidup Rasulullah ﷺ (*Sirah Nabawiyah*) sering kali dipahami sebatas narasi spiritual dan pertempuran fisik. Padahal, di balik dinamika dakwah beliau, terhampar arsitektur geopolitik, seni diplomasi tingkat tinggi, dan strategi ketatanegaraan yang sangat presisi. E-book ini hadir untuk membedah dimensi kepemimpinan politik dan diplomasi Nabi Muhammad ﷺ secara komprehensif.
 
@@ -22,23 +22,23 @@ Sering timbul dikotomi keliru yang memisahkan antara kesucian agama dan realitas
 
 Buku digital ini dibagi menjadi tiga pilar utama pembahasan untuk memudahkan navigasi pemahaman Anda:
 
-<Tabs>
-  <TabItem label="Bagian I: Dalam Negeri">
+<CardGrid>
+  <Card title="Bagian I: Dalam Negeri" icon="open-book">
     **Fondasi & Kebijakan Dalam Negeri**
     
     Fokus pada konsolidasi internal, pembentukan mindset masyarakat di Makkah, peletakan konstitusi tertulis pertama (Piagam Madinah), serta pembangunan jaringan intelijen internal.
-  </TabItem>
-  <TabItem label="Bagian II: Luar Negeri">
+  </Card>
+  <Card title="Bagian II: Luar Negeri" icon="earth">
     **Diplomasi & Geopolitik Luar Negeri**
     
     Membedah manuver diplomasi internasional, gencatan senjata strategis (Perjanjian Hudaibiyah), serta pengiriman utusan diplomatik dan surat-surat resmi ke para penguasa dunia (Romawi, Persia, Abyssinia, dll).
-  </TabItem>
-  <TabItem label="Bagian III: Manajemen Krisis">
+  </Card>
+  <Card title="Bagian III: Manajemen Krisis" icon="rocket">
     **Krisis & Kemenangan Peradaban**
     
     Menganalisis strategi menghadapi koalisi musuh (Perang Ahzab), pendekatan *Soft Power* saat pembebasan Makkah (*Fathul Makkah*), dan ekstraksi formulasi strategi untuk era modern.
-  </TabItem>
-</Tabs>
+  </Card>
+</CardGrid>
 
 ---
 
