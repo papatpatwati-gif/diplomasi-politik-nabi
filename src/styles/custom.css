@@ -113,6 +113,21 @@ hr {
   margin: 4rem 0;
 }
 
+/* Kustomisasi Khusus FAQ Konten Otomatis via Wrapper */
+.faq-section p:has(> strong:first-child) {
+  background: rgba(16, 185, 129, 0.08) !important;
+  border-left: 4px solid var(--sl-color-accent) !important;
+  padding: 1rem 1.25rem !important;
+  border-radius: 0 8px 8px 0;
+  margin-top: 2.5rem !important;
+  font-size: 1.2rem;
+}
+
+.faq-section p:not(:has(> strong:first-child)),
+.faq-section ul {
+  padding-left: 1.25rem;
+}
+
 /* Animasi Kustom untuk Logo Hero */
 @keyframes floatLogo {
   0% {
