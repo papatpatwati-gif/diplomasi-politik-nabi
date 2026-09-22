@@ -112,3 +112,21 @@ hr {
   opacity: 0.5;
   margin: 4rem 0;
 }
+
+/* Animasi Kustom untuk Logo Hero */
+@keyframes floatLogo {
+  0% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-12px);
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}
+
+.hero img {
+  animation: floatLogo 6s ease-in-out infinite;
+  filter: drop-shadow(0 10px 20px rgba(16, 185, 129, 0.15));
+}

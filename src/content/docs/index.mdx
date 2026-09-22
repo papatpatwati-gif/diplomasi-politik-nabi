@@ -5,7 +5,7 @@ template: splash
 hero:
   tagline: Kajian strategis mengenai prinsip, perjanjian, dan kepemimpinan politik Nabi Muhammad SAW.
   image:
-    file: ../../assets/houston.webp
+    file: ../../assets/logo-kustom.png
   actions:
     - text: Mulai Membaca
       link: /pengantar/
@@ -14,25 +14,52 @@ hero:
       link: '#topik-utama'
       icon: open-book
       variant: minimal
+head:
+  - tag: meta
+    attrs:
+      name: keywords
+      content: siyasah syar'iyyah, diplomasi nabi, piagam madinah, politik islam, sejarah makkah
+  - tag: meta
+    attrs:
+      property: og:type
+      content: book
 ---
 
 import { Card, CardGrid } from '@astrojs/starlight/components';
+
+<style>{`
+	.hero-custom-badge {
+		background: linear-gradient(45deg, var(--sl-color-accent), var(--sl-color-accent-low));
+		color: white;
+		padding: 0.5rem 1rem;
+		border-radius: 9999px;
+		display: inline-block;
+		margin-bottom: 1rem;
+		font-weight: bold;
+	}
+`}</style>
 
 <div id="topik-utama"></div>
 
 ## Pokok Bahasan Utama
 
 <CardGrid stagger>
-	<Card title="Prinsip Diplomasi" icon="pencil">
-		Memahami nilai dasar, etika, dan landasan syariat dalam hubungan antarwilayah pada masa kenabian.
+	<Card title="Piagam Madinah & Konstitusi" icon="document">
+		Peletakan dasar tata negara berdaulat, supremasi hukum Syara', serta integrasi sosial-ekonomi lintas demografi.
 	</Card>
-	<Card title="Perjanjian & Piagam" icon="document">
-		Analisis historis dokumen penting seperti Piagam Madina dan Perjanjian Hudaibiyyah.
+	<Card title="Seni Intelijen & Spionase" icon="search">
+		Manajemen informasi strategis, perlindungan rahasia negara (kontra-intelijen), dan pemetaan kekuatan adidaya global.
 	</Card>
-	<Card title="Strategi Utusan & Surat" icon="email">
-		Studi kasus mengenai korespondensi diplomatik kepada para raja dan pemimpin imperium besar.
+	<Card title="Perjanjian Hudaibiyah" icon="pencil">
+		Masterpiece diplomasi internasional untuk meraih pengakuan kedaulatan secara de jure dan memecah kebuntuan militer.
 	</Card>
-	<Card title="Relevansi Kontemporer" icon="setting">
-		Penerapan nilai-nilai diplomasi kenabian dalam tata kelola hukum dan politik internasional modern.
+	<Card title="Diplomasi Global & Surat" icon="email">
+		Proyeksi kekuatan global Negara Islam melalui korespondensi bilateral resmi kepada para kaisar dan penguasa dunia.
+	</Card>
+	<Card title="Manajemen Krisis & Ahzab" icon="open-book">
+		Strategi pertahanan hibrida (Khandaq), manajemen psikologis warga, dan operasi subversi pemecah aliansi musuh.
+	</Card>
+	<Card title="Soft Power & Relevansi Modern" icon="setting">
+		Penaklukan nir-kekerasan Fathu Makkah, amnesti umum, serta cetak biru Siyasah Syar'iyyah untuk abad ke-21.
 	</Card>
 </CardGrid>
