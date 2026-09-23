@@ -11,6 +11,7 @@ export default defineConfig({
 	    ],
       components: {
         Footer: './src/content/docs/Footer.astro',
+        SocialIcons: './src/content/docs/SocialIcons.astro',
       },
       sidebar: [
         {

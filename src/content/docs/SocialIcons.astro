@@ -1,0 +1,45 @@
+---
+import DefaultSocialIcons from '@astrojs/starlight/components/SocialIcons.astro';
+---
+
+<div class="lang-switch-wrapper">
+  <!-- Tombol Versi Inggris -->
+  <a href="https://........" class="lang-btn" title="English Version">
+    🇬🇧 Versi Inggris
+  </a>
+
+  <!-- Tombol Versi Arab (Persiapan) -->
+  <a href="https://......." class="lang-btn" title="Arabic Version">
+    🇸🇦 Versi Arab
+  </a>
+
+  <DefaultSocialIcons {...Astro.props} />
+</div>
+
+<style>
+  .lang-switch-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  .lang-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    padding: 0.3rem 0.65rem;
+    border: 1px solid var(--sl-color-gray-4);
+    border-radius: 0.375rem;
+    color: var(--sl-color-white);
+    background-color: var(--sl-color-black);
+    font-size: 0.85rem;
+    font-weight: 500;
+    text-decoration: none;
+    transition: all 0.2s ease-in-out;
+  }
+  .lang-btn:hover {
+    border-color: var(--sl-color-accent);
+    color: var(--sl-color-accent);
+    background-color: var(--sl-color-gray-6);
+    text-decoration: none;
+  }
+</style>
