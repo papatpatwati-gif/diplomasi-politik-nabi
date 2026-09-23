@@ -7,11 +7,11 @@ export default defineConfig({
       title: 'Diplomasi & Strategi Politik ala Nabi',
       description: 'Meneladani kepemimpinan, diplomasi, dan strategi politik Rasulullah ﷺ secara multidimensi.',
 	    customCss: [
-        // Tambahkan baris ini
         './src/styles/custom.css',
-          components: {
-        Footer: './src/components/Footer.astro',
-      ],
+	    ],
+      components: {
+        Footer: './src/content/docs/Footer.astro',
+      },
       sidebar: [
         {
           label: 'Mulai Dari Sini',
