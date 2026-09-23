@@ -3,7 +3,7 @@ title: "Bab 2 :Piagam Madinah: Konstitusi Tertulis Pertama dan Peletakan Dasar N
 description: "Analisis komprehensif Piagam Madinah dari perspektif siyasah syar'iyyah, tata negara, strategi militer, dan geopolitik global."
 ---
 
-# Piagam Madinah: Konstitusi Tertulis Pertama dan Peletakan Dasar Geopolitik Islam
+
 
 Ketika Rasulullah ﷺ hijrah ke Yatsrib (yang kemudian bernama *Al-Madinah Al-Munawwarah*), beliau tidak sekadar berpindah tempat untuk menghindari persekusi. Hijrah adalah manuver geopolitik tingkat tinggi untuk mendirikan sebuah entitas negara (*Daulah*) yang berdaulat. Langkah strategis pertama yang diambil Nabi ﷺ setelah membangun Masjid Nabawi dan mempersaudarakan Muhajirin dan Anshar adalah merumuskan sebuah kesepakatan politik yang mengikat seluruh entitas demografis Madinah. Kesepakatan inilah yang dikenal sebagai **Piagam Madinah** (*Watsiqah al-Madinah*).
 
