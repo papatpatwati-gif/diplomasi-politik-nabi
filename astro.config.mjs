@@ -17,31 +17,44 @@ export default defineConfig({
         {
           label: 'Mulai Dari Sini',
           items: [
-            { label: 'Pengantar', slug: 'pengantar' },
-            { label: 'Daftar Rujukan & Referensi', slug: 'referensi' },
+            { label: 'Pengantar & Landasan Metodologi', slug: 'pengantar' },
           ],
         },
         {
           label: 'Bagian I: Fondasi & Kebijakan Dalam Negeri',
           items: [
-            { label: 'Bab 1: Fondasi Kekuatan & Arsitektur Sosial', slug: 'bab-1' },
-            { label: 'Bab 2: Piagam Madinah: Konstitusi Tertulis', slug: 'bab-2' },
-            { label: 'Bab 3: Seni Intelijen & Penguasaan Informasi', slug: 'bab-3' },
+            { label: 'Bab 1: Arsitektur Sosial & Kaderisasi Ideologis', slug: 'bab-1' },
+            { label: 'Bab 2: Piagam Madinah: Konstitusi & Hak Publik', slug: 'bab-2' },
+            { label: 'Bab 3: Sistem Intelijen & Penguasaan Informasi', slug: 'bab-3' },
           ],
         },
         {
-          label: 'Bagian II: Diplomasi & Geopolitik Luar Negeri',
+          label: 'Bagian II: Manajemen Krisis & Peperangan Asimetris',
           items: [
-            { label: 'Bab 4: Perjanjian Hudaibiyah', slug: 'bab-4' },
-            { label: 'Bab 5: Diplomasi Bilateral & Surat-Surat', slug: 'bab-5' },
+            { label: 'Bab 4: Pengelolaan Krisis Koalisi Musuh & Pihak Ketiga', slug: 'bab-4' },
           ],
         },
         {
-          label: 'Bagian III: Manajemen Krisis & Kemenangan Peradaban',
+          label: 'Bagian III: Diplomasi & Geopolitik Luar Negeri',
           items: [
-            { label: 'Bab 6: Manajemen Krisis & Koalisi Musuh', slug: 'bab-6' },
-            { label: 'Bab 7: Fathul Makkah & Soft Power', slug: 'bab-7' },
-            { label: 'Bab 8: Relevansi Strategi Politik Era Modern', slug: 'bab-8' },
+            { label: 'Bab 5: Perjanjian Hudaibiyah: Masterclass Diplomasi', slug: 'bab-5' },
+            { label: 'Bab 6: Surat-Surat Diplomatik & Penjangkauan Regional', slug: 'bab-6' },
+            { label: 'Bab 7: Deterrence Strategy: Penanganan Khaibar & Isyarat Tabuk', slug: 'bab-7' },
+          ],
+        },
+        {
+          label: 'Bagian IV: Kemenangan Peradaban & Relevansi Modern',
+          items: [
+            { label: 'Bab 8: Fathul Makkah & Soft Power Pembebasan', slug: 'bab-8' },
+            { label: 'Bab 9: Khutbah Wada\' & Deklarasi Tatanan Universal', slug: 'bab-9' },
+            { label: 'Bab 10: Relevansi Strategi Politik Nabi di Era Modern', slug: 'bab-10' },
+          ],
+        },
+        {
+          label: 'Lampiran & Penutup',
+          items: [
+            { label: 'Glosarium Istilah Siyasah', slug: 'glosarium' },
+            { label: 'Daftar Rujukan & Referensi', slug: 'referensi' },
           ],
         },
       ],
