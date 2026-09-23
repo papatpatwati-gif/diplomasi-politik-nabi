@@ -1,0 +1,43 @@
+---
+import type { Props } from '@astrojs/starlight/props';
+import Default from '@astrojs/starlight/components/Footer.astro';
+---
+
+<Default {...Astro.props} />
+
+<div class="footer-meta">
+  <p>&copy; {new Date().getFullYear()} Diplomasi politik nabi. Hak Cipta Dilindungi.</p>
+</div>
+
+<style>
+  .custom-footer-link {
+    text-align: center;
+    margin-top: 2rem;
+    padding-top: 1.5rem;
+    border-top: 1px dashed var(--sl-color-hairline);
+  }
+  .custom-footer-link a {
+    color: var(--sl-color-accent-high);
+    text-decoration: none;
+    font-size: 0.95rem;
+    font-weight: 500;
+  }
+  .custom-footer-link a:hover {
+    text-decoration: underline;
+  }
+  .footer-meta {
+    margin-top: 1.2rem;
+    font-size: 0.85rem;
+    color: var(--sl-color-gray-3);
+  }
+  .footer-meta p {
+    margin: 0;
+  }
+  .social-links {
+    margin-top: 0.5rem;
+  }
+  .separator {
+    margin: 0 0.5rem;
+    color: var(--sl-color-gray-5);
+  }
+</style>

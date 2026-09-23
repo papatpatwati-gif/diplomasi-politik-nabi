@@ -9,6 +9,8 @@ export default defineConfig({
 	    customCss: [
         // Tambahkan baris ini
         './src/styles/custom.css',
+          components: {
+        Footer: './src/components/Footer.astro',
       ],
       sidebar: [
         {
