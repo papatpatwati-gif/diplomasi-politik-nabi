@@ -3,7 +3,7 @@ title: "Bab 6:Manajemen Krisis & Koalisi Musuh: Strategi Bertahan dan Disrupsi A
 description: "Membedah ketahanan institusi Negara Madinah dalam menghadapi krisis eksistensial, taktik pertahanan militer, dan diplomasi pemecah belah koalisi musuh."
 ---
 
-# Manajemen Krisis & Koalisi Musuh: Strategi Bertahan dan Disrupsi Aliansi pada Perang Ahzab
+
 
 Ujian tertinggi bagi kedaulatan sebuah negara bukanlah saat ia melakukan ekspansi, melainkan saat ia menghadapi ancaman eksistensial dari berbagai front secara bersamaan. Pada tahun ke-5 Hijriah, Negara Islam Madinah menghadapi krisis geopolitik dan militer terbesar dalam sejarah awalnya: pengepungan oleh 10.000 pasukan gabungan (Ahzab) yang terdiri dari musyrikin Quraisy, kabilah Ghatafan, dan sekutu-sekutu badui mereka, yang kemudian diperparah oleh pengkhianatan internal dari Yahudi Bani Quraizhah.
 

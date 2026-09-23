@@ -3,7 +3,7 @@ title: "Bab 7 :Fathu Makkah & Soft Power: Penaklukan Tanpa Pertumpahan Darah dan
 description: "Analisis geopolitik, strategi militer, dan penggunaan soft power pada peristiwa Fathu Makkah dalam mengamankan kedaulatan Jazirah Arab."
 ---
 
-# Fathu Makkah & Soft Power: Penaklukan Tanpa Pertumpahan Darah dan Hegemoni Ideologis
+
 
 Penaklukan Makkah (*Fathu Makkah*) pada Ramadhan tahun 8 Hijriah adalah puncak dari serangkaian strategi politik dan militer yang dirancang secara sistematis sejak hijrah. Peristiwa ini bukan sekadar penaklukan teritorial, melainkan demonstrasi paripurna dari penggunaan *soft power*, perang urat syaraf (psychological warfare), dan keanggunan diplomasi Islam. Fathu Makkah menandai transisi mutlak di mana Negara Madinah bertransformasi menjadi penguasa tunggal (*hegemon*) di Jazirah Arab.
 

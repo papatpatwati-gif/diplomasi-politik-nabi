@@ -3,7 +3,7 @@ title: "Bab 5 :Diplomasi Bilateral & Surat-Surat: Proyeksi Kekuatan Global Negar
 description: "Analisis geopolitik dan siyasah syar'iyyah terhadap manuver Rasulullah ﷺ dalam mengirimkan surat-surat diplomatik kepada para kepala negara adidaya."
 ---
 
-# Diplomasi Bilateral & Surat-Surat: Proyeksi Kekuatan Global Negara Islam
+
 
 Perjanjian Hudaibiyah (6 H) telah mengamankan perbatasan selatan Madinah dan memberikan pengakuan *de jure* dari Quraisy Makkah. Namun, visi politik Rasulullah ﷺ tidak berhenti pada hegemoni regional di Jazirah Arab. Memasuki akhir tahun ke-6 dan awal tahun ke-7 Hijriah, Negara Islam Madinah memulai fase ofensif diplomatik berskala global. 
 

@@ -3,7 +3,7 @@ title: "Bab 3:Seni Intelijen & Penguasaan Informasi: Mata dan Telinga Negara Mad
 description: "Analisis sistem intelijen, manajemen informasi strategis, dan operasi kontra-spionase pada masa Rasulullah ﷺ berdasarkan tinjauan militer dan siyasah syar'iyyah."
 ---
 
-# Seni Intelijen & Penguasaan Informasi: Mata dan Telinga Negara Madinah
+
 
 Dalam kajian sejarah militer dan politik Islam, kemenangan yang diraih oleh Rasulullah ﷺ sering kali direduksi sebatas pada keberanian fisik dan mukjizat semata. Padahal, jika dibedah secara empiris, Negara Islam Madinah dibangun di atas fondasi penguasaan informasi yang sangat presisi. Rasulullah ﷺ adalah seorang perintis sistem intelijen (spionase/ *al-'ain*) dan manajemen informasi strategis yang memastikan bahwa setiap keputusan geopolitik dan militer didasarkan pada data lapangan yang akurat. 
 

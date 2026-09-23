@@ -3,7 +3,7 @@ title: "Bab 8:Relevansi Strategi Politik Era Modern: Kontekstualisasi Siyasah Sy
 description: "Sintesis dan proyeksi bagaimana diplomasi, tata negara, dan strategi politik Rasulullah ﷺ memberikan cetak biru (blueprint) bagi tata kelola negara modern."
 ---
 
-# Relevansi Strategi Politik Era Modern: Kontekstualisasi Siyasah Syar'iyyah di Abad 21
+
 
 Kajian terhadap sirah nabawiyah sering kali terjebak pada romantisisme historis semata, di mana manuver politik dan militer Rasulullah ﷺ hanya dipandang sebagai keajaiban masa lalu yang tidak dapat diduplikasi. Padahal, jika dibedah menggunakan instrumen analisis geopolitik dan *Siyasah Syar'iyyah*, langkah-langkah yang diambil oleh Negara Madinah menawarkan cetak biru (*blueprint*) tata kelola negara yang sangat relevan untuk merespons kompleksitas politik global abad ke-21.
 
