@@ -13,6 +13,22 @@ export default defineConfig({
         Footer: './src/content/docs/Footer.astro',
         SocialIcons: './src/content/docs/SocialIcons.astro',
       },
+      head: [
+        {
+          tag: 'script',
+          content: `
+            (function() {
+              const path = window.location.pathname;
+              const protectedSlugs = ['/bab-2', '/bab-3', '/bab-4', '/bab-5', '/bab-6', '/bab-7', '/bab-8', '/bab-9', '/bab-10', '/glosarium'];
+              const isProtected = protectedSlugs.some(slug => path.includes(slug));
+              const isVerified = localStorage.getItem('dpn_user_verified') === 'true';
+              if (isProtected && !isVerified) {
+                window.location.href = '/login/?returnTo=' + encodeURIComponent(path);
+              }
+            })();
+          `,
+        },
+      ],
       sidebar: [
         {
           label: 'Mulai Dari Sini',
@@ -53,6 +69,7 @@ export default defineConfig({
         {
           label: 'Lampiran & Penutup',
           items: [
+            { label: 'Verifikasi Akses Penuh', slug: 'login' },
             { label: 'Glosarium Istilah Siyasah', slug: 'glosarium' },
             { label: 'Daftar Rujukan & Referensi', slug: 'referensi' },
           ],

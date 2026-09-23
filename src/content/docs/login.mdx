@@ -1,0 +1,122 @@
+---
+title: "Akses Terbatas"
+description: "Silakan isi data untuk membuka akses seluruh bab buku."
+template: splash
+---
+
+Selamat datang di area akses terbatas. Untuk melanjutkan membaca **Bab 2 hingga Bab 10**, silakan masukkan Nama, Nomor WhatsApp, dan **Kode Akses Eksklusif**. 
+
+### Cara Membuka Akses:
+1. Isi formulir di bawah ini dengan benar.
+2. Masukkan **Kode Akses** yang Anda terima dari Admin. Jika belum memilikinya, silakan [hubungi Admin via WhatsApp](https://wa.me/6285794506290?text=Halo%20Admin,%20saya%20ingin%20meminta%20kode%20akses%20eksklusif%20e-book%20Diplomasi%20Nabi).
+3. Klik tombol **"Kirim & Buka Akses"**.
+4. Sistem akan secara otomatis mengarahkan Anda ke WhatsApp Admin (**085794506290**) untuk mengirim pesan konfirmasi.
+5. Setelah tombol ditekan, seluruh isi buku akan terbuka secara otomatis di browser ini.
+
+<div class="login-container">
+  <div class="login-card">
+    <form id="loginForm">
+      <div class="input-group">
+        <label for="userName">Nama Lengkap</label>
+        <input type="text" id="userName" required placeholder="Contoh: Ahmad Abdullah" />
+      </div>
+      <div class="input-group">
+        <label for="userWA">Nomor WhatsApp</label>
+        <input type="tel" id="userWA" required placeholder="Contoh: 0857..." />
+      </div>
+      <div class="input-group">
+        <label for="accessCode">Kode Akses Eksklusif</label>
+        <input type="password" id="accessCode" required placeholder="Masukkan kode dari Admin" />
+      </div>
+      <button type="submit" class="login-btn">Kirim & Buka Akses</button>
+    </form>
+  </div>
+</div>
+
+<script>
+  const loginForm = document.getElementById('loginForm');
+  if (loginForm) {
+    loginForm.addEventListener('submit', (e) => {
+      e.preventDefault();
+      const name = document.getElementById('userName').value;
+      const phone = document.getElementById('userWA').value;
+      const code = document.getElementById('accessCode').value;
+
+      // Kode Akses Statis (Silakan ganti 'KHIDMAH2026' dengan kode pilihan Anda)
+      const secretCode = 'KHIDMAH2026';
+      const adminNumber = '6285794506290';
+      
+      if (code !== secretCode) {
+        alert('Maaf, kode akses yang Anda masukkan salah. Silakan hubungi Admin untuk mendapatkan kode akses eksklusif.');
+        return;
+      }
+
+      // Simpan status verifikasi di localStorage browser
+      localStorage.setItem('dpn_user_verified', 'true');
+      localStorage.setItem('dpn_user_name', name);
+      
+      // Buat URL WhatsApp dengan pesan otomatis
+      const message = `Halo Admin, saya ${name} (${phone}) ingin membuka akses penuh buku Diplomasi & Strategi Politik ala Nabi.`;
+      const waUrl = `https://wa.me/${adminNumber}?text=${encodeURIComponent(message)}`;
+      
+      // Buka WhatsApp di tab baru untuk mengirim data ke admin
+      window.open(waUrl, '_blank');
+      
+      // Alihkan pengguna ke Bab 2 atau ke halaman yang sebelumnya mereka coba akses
+      const params = new URLSearchParams(window.location.search);
+      const returnTo = params.get('returnTo') || '/bab-2/';
+      window.location.href = returnTo;
+    });
+  }
+</script>
+
+<style>{`
+  .login-container {
+    display: flex;
+    justify-content: center;
+    padding: 2rem 0;
+  }
+  .login-card {
+    width: 100%;
+    max-width: 450px;
+    background: var(--sl-color-gray-6);
+    border: 1px solid var(--sl-color-gray-5);
+    padding: 2.5rem;
+    border-radius: 1rem;
+    box-shadow: var(--sl-shadow-md);
+  }
+  .input-group {
+    margin-bottom: 1.5rem;
+  }
+  .input-group label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--sl-color-accent-high);
+  }
+  .input-group input {
+    width: 100%;
+    padding: 0.8rem;
+    background: var(--sl-color-black);
+    border: 1px solid var(--sl-color-gray-4);
+    border-radius: 0.5rem;
+    color: white;
+  }
+  .login-btn {
+    width: 100%;
+    padding: 1rem;
+    background: var(--sl-color-accent);
+    color: var(--sl-color-black);
+    border: none;
+    border-radius: 0.5rem;
+    font-weight: 700;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+  .login-btn:hover {
+    background: var(--sl-color-accent-high);
+    transform: translateY(-2px);
+  }
+`}</style>
