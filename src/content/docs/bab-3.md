@@ -1,5 +1,5 @@
 ---
-title: "Seni Intelijen & Penguasaan Informasi: Mata dan Telinga Negara Madinah"
+title: "Bab 3:Seni Intelijen & Penguasaan Informasi: Mata dan Telinga Negara Madinah"
 description: "Analisis sistem intelijen, manajemen informasi strategis, dan operasi kontra-spionase pada masa Rasulullah ﷺ berdasarkan tinjauan militer dan siyasah syar'iyyah."
 ---
 

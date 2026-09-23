@@ -1,5 +1,5 @@
 ---
-title: "Diplomasi Bilateral & Surat-Surat: Proyeksi Kekuatan Global Negara Islam"
+title: "Bab 5 :Diplomasi Bilateral & Surat-Surat: Proyeksi Kekuatan Global Negara Islam"
 description: "Analisis geopolitik dan siyasah syar'iyyah terhadap manuver Rasulullah ﷺ dalam mengirimkan surat-surat diplomatik kepada para kepala negara adidaya."
 ---
 

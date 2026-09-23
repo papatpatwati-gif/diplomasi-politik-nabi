@@ -1,5 +1,5 @@
 ---
-title: "Piagam Madinah: Konstitusi Tertulis Pertama dan Peletakan Dasar Negara"
+title: "Bab 2 :Piagam Madinah: Konstitusi Tertulis Pertama dan Peletakan Dasar Negara"
 description: "Analisis komprehensif Piagam Madinah dari perspektif siyasah syar'iyyah, tata negara, strategi militer, dan geopolitik global."
 ---
 

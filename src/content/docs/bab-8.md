@@ -1,5 +1,5 @@
 ---
-title: "Relevansi Strategi Politik Era Modern: Kontekstualisasi Siyasah Syar'iyyah di Abad 21"
+title: "Bab 8:Relevansi Strategi Politik Era Modern: Kontekstualisasi Siyasah Syar'iyyah di Abad 21"
 description: "Sintesis dan proyeksi bagaimana diplomasi, tata negara, dan strategi politik Rasulullah ﷺ memberikan cetak biru (blueprint) bagi tata kelola negara modern."
 ---
 

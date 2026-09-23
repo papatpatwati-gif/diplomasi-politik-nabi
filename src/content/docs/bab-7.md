@@ -1,5 +1,5 @@
 ---
-title: "Fathu Makkah & Soft Power: Penaklukan Tanpa Pertumpahan Darah dan Hegemoni Ideologis"
+title: "Bab 7 :Fathu Makkah & Soft Power: Penaklukan Tanpa Pertumpahan Darah dan Hegemoni Ideologis"
 description: "Analisis geopolitik, strategi militer, dan penggunaan soft power pada peristiwa Fathu Makkah dalam mengamankan kedaulatan Jazirah Arab."
 ---
 

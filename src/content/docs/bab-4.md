@@ -1,5 +1,5 @@
 ---
-title: "Perjanjian Hudaibiyah: Manuver Geopolitik dan Kemenangan Diplomatik yang Nyata"
+title: "Bab 4 :Perjanjian Hudaibiyah: Manuver Geopolitik dan Kemenangan Diplomatik yang Nyata"
 description: "Analisis komprehensif Perjanjian Hudaibiyah dari dimensi historiografi, siyasah syar'iyyah, strategi militer, dan pergeseran konstelasi geopolitik Jazirah Arab."
 ---
 

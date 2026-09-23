@@ -1,5 +1,5 @@
 ---
-title: "Manajemen Krisis & Koalisi Musuh: Strategi Bertahan dan Disrupsi Aliansi pada Perang Ahzab"
+title: "Bab 6:Manajemen Krisis & Koalisi Musuh: Strategi Bertahan dan Disrupsi Aliansi pada Perang Ahzab"
 description: "Membedah ketahanan institusi Negara Madinah dalam menghadapi krisis eksistensial, taktik pertahanan militer, dan diplomasi pemecah belah koalisi musuh."
 ---
 
