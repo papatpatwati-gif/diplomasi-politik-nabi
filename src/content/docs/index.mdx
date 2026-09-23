@@ -36,9 +36,97 @@ import { Card, CardGrid } from '@astrojs/starlight/components';
 		margin-bottom: 1rem;
 		font-weight: bold;
 	}
+	.stats-container {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+		gap: 1rem;
+		margin: 2rem 0;
+	}
+	.stat-box {
+		padding: 1.25rem;
+		background-color: var(--sl-color-gray-6);
+		border: 1px solid var(--sl-color-gray-5);
+		border-radius: 0.5rem;
+		text-align: center;
+		box-shadow: var(--sl-shadow-sm);
+	}
+	.stat-val {
+		font-size: 2.25rem;
+		font-weight: 800;
+		color: var(--sl-color-accent-high);
+		line-height: 1.2;
+		display: block;
+		margin-bottom: 0.25rem;
+	}
+	.stat-desc {
+		font-size: 0.875rem;
+		color: var(--sl-color-gray-2);
+		font-weight: 500;
+	}
+	.timeline-container {
+		margin: 2.5rem 0;
+		position: relative;
+		padding-left: 1.5rem;
+		border-left: 2px solid var(--sl-color-accent);
+	}
+	.timeline-item {
+		position: relative;
+		margin-bottom: 2rem;
+	}
+	.timeline-item:last-child {
+		margin-bottom: 0;
+	}
+	.timeline-badge {
+		position: absolute;
+		left: calc(-1.5rem - 6px);
+		top: 0.35rem;
+		width: 10px;
+		height: 10px;
+		border-radius: 50%;
+		background-color: var(--sl-color-accent-high);
+		border: 2px solid var(--sl-color-bg, #17191e);
+	}
+	.timeline-date {
+		font-weight: 700;
+		color: var(--sl-color-accent-high);
+		font-size: 0.875rem;
+		display: block;
+		margin-bottom: 0.25rem;
+	}
+	.timeline-content {
+		font-size: 0.95rem;
+		color: var(--sl-color-gray-3);
+	}
 `}</style>
 
 <div id="topik-utama"></div>
+
+## Pengantar Kajian Strategis
+
+Selamat datang di **Diplomasi & Politik Nabi**, sebuah kajian multidimensional yang membedah rekam jejak kepemimpinan dan manuver Rasulullah ﷺ melalui kacamata **Siyasah Syar'iyyah, Geopolitik, dan Strategi Hubungan Internasional**. Buku digital ini hadir untuk mendekonstruksi pemikiran bahwa sirah nabawiyah hanyalah sebuah romantisisme sejarah masa lalu, dan merekonstruksinya menjadi sebuah cetak biru (*blueprint*) tata kelola negara dan ketahanan nasional yang sangat presisi.
+
+Melalui integrasi analisis dari para pemikir tata negara klasik (seperti Imam Al-Mawardi dan Ibnu Taimiyah), sejarawan otoritatif (Syaikh Shafiyurrahman Al-Mubarakfuri dan Dr. M. Sa'id Ramadan Al-Bouthi), pakar hukum konstitusi (Dr. Muhammad Hamidullah), hingga pakar militer (Jenderal Mahmud Syit Khattab), e-book ini mengupas tuntas bagaimana Negara Islam Madinah dibangun di atas fondasi ideologis yang kokoh untuk menantang serta mendisrupsi hegemoni global adidaya Romawi dan Persia pada masanya. Konten di dalam buku ini mengontekstualisasikan strategi prophetik tersebut ke dalam parameter modern seperti *Asymmetric Diplomacy*, *Operational Security (OPSEC)*, *Logistics Intelligence*, hingga *Cognitive Warfare* abad ke-21.
+
+### Ikhtisar Performa Komparatif
+
+<div class="stats-container">
+	<div class="stat-box">
+		<span class="stat-val">8 Bab</span>
+		<span class="stat-desc">Kajian Tematis Komprehensif</span>
+	</div>
+	<div class="stat-box">
+		<span class="stat-val">11+</span>
+		<span class="stat-desc">Rujukan Kitab & Literatur Otoritatif</span>
+	</div>
+	<div class="stat-box">
+		<span class="stat-val">3 Pilar</span>
+		<span class="stat-desc">Analisis (Siyasah, Geopolitik, Militer)</span>
+	</div>
+	<div class="stat-box">
+		<span class="stat-val">24+</span>
+		<span class="stat-desc">Studi Kasus & FAQ Interaktif</span>
+	</div>
+</div>
 
 ## Pokok Bahasan Utama
 
@@ -62,3 +150,44 @@ import { Card, CardGrid } from '@astrojs/starlight/components';
 		Penaklukan nir-kekerasan Fathu Makkah, amnesti umum, serta cetak biru Siyasah Syar'iyyah untuk abad ke-21.
 	</Card>
 </CardGrid>
+
+## Lini Masa Strategis Geopolitik Prophetik
+
+<div class="timeline-container">
+	<div class="timeline-item">
+		<div class="timeline-badge"></div>
+		<span class="timeline-date">FASE MAKKAH</span>
+		**Kaderisasi Politik & Ideologis di Darul Arqam**
+		<p class="timeline-content">Perombakan total mindset jahiliah menuju kesadaran ideologis akidah Islamiah untuk melahirkan kelompok inti (*the elite vanguard*).</p>
+	</div>
+	<div class="timeline-item">
+		<div class="timeline-badge"></div>
+		<span class="timeline-date">1 HIJRIAH</span>
+		**Proklamasi Daulah & Piagam Madinah**
+		<p class="timeline-content">Pondasi ketatanegaraan pertama melalui pembangunan Masjid Nabawi, Dekrit Mu'akhat, dan perumusan konstitusi tertulis pertama di dunia.</p>
+	</div>
+	<div class="timeline-item">
+		<div class="timeline-badge"></div>
+		<span class="timeline-date">5 HIJRIAH</span>
+		**Perang Ahzab & Manajemen Krisis**
+		<p class="timeline-content">Penerapan strategi pertahanan hibrida (Khandaq) dan operasi intelijen subversif untuk memecah belah koalisi 10.000 pasukan musuh.</p>
+	</div>
+	<div class="timeline-item">
+		<div class="timeline-badge"></div>
+		<span class="timeline-date">6 HIJRIAH</span>
+		**Traktat Hudaibiyah: Pengakuan De Jure**
+		<p class="timeline-content">Masterpiece diplomasi bilateral yang mengamankan perbatasan selatan, meraih pengakuan kedaulatan negara, dan membuka keran ekspansi diplomasi global.</p>
+	</div>
+	<div class="timeline-item">
+		<div class="timeline-badge"></div>
+		<span class="timeline-date">8 HIJRIAH</span>
+		**Fathu Makkah: Supremasi Hegemoni**
+		<p class="timeline-content">Penaklukan nir-kekerasan melalui kombinasi operasi kontra-intelijen (OPSEC), unjuk kekuatan (*show of force*), serta amnesti umum demi rekonsiliasi nasional.</p>
+	</div>
+	<div class="timeline-item">
+		<div class="timeline-badge"></div>
+		<span class="timeline-date">ABAD KE-21</span>
+		**Kontekstualisasi Siyasah Syar'iyyah Modern**
+		<p class="timeline-content">Sintesis dan proyeksi strategi prophetik ke dalam parameter politik modern kontemporer untuk cetak biru ketahanan nasional umat masa kini.</p>
+	</div>
+</div>
