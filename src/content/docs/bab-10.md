@@ -5,11 +5,23 @@ description: "Sintesis konseptual dan kontekstualisasi prinsip Siyasah Syar'iyya
 
 Kajian komprehensif terhadap rekam jejak kepemimpinan politik dan diplomasi Rasulullah ﷺ membuktikan satu hal: *Siyasah Syar'iyyah* bukanlah dogma utopia masa lalu, melainkan sistem politik dinamis yang memiliki relevansi aplikatif yang tinggi di abad ke-21. Ketika tatanan dunia sekuler kontemporer mengalami disrupsi moral, hukum, dan keamanan, prinsip ketatanegaraan prophetik hadir menawarkan cetak biru alternatif yang solutif.
 
+<Aside type="tip" title="Poin Utama Bab Ini (TL;DR)">
+  - **Kedaulatan Hukum Absolut:** Menempatkan hukum Syara' (*siyadah*) di atas kepentingan manusia untuk membendung intervensi modal (*state capture*) dan tirani oligarki.
+  - **Otonomi Multipolar Modern:** Membangun kemandirian strategis (*strategic autonomy*) dunia Islam tanpa mengekor pada blok-blok hegemoni adidaya sekuler.
+  - **Kedaulatan Siber & Kognitif:** Mengonseptualisasikan pertahanan hibrida nabawi ke dalam arsitektur keamanan siber (*cyber sovereignty*) dan imunitas perang kognitif.
+</Aside>
+
+---
+
 ## 1. Kedaulatan Hukum versus Oligarki Finansial
 
 Tantangan terbesar sistem politik modern—termasuk demokrasi liberal kontemporer—adalah fenomena *state capture*, di mana produk hukum ketatanegaraan sering kali "dibajak" oleh kepentingan modal donor politik dan oligarki keuangan. 
 
 Islam menawarkan solusi mutakhir melalui pemisahan tegas yang digagas oleh Syaikh Taqiyuddin an-Nabhani dalam *Nizhām al-Hukm fī al-Islām*: kedaulatan (*siyadah*) berada di tangan hukum syariat yang tetap, bukan di tangan manusia yang fluktuatif. Karena undang-undang dasar negara bersumber pada wahyu yang adil, aparatur negara (eksekutif) tidak memiliki ruang prerogatif untuk mengubah hukum demi menguntungkan korporasi privat. Ini memastikan terwujudnya supremasi hukum substantif (*Rule of Law*) yang murni melindungi kepentingan rakyat.
+
+<Aside type="note" title="Perspektif Siyasah: Solusi Atas State Capture">
+  Formula pemisahan antara kedaulatan hukum di tangan Syariat (*siyadah*) dan hak eksekusi kekuasaan di tangan umat (*sulthan*) menjadi jawaban konkret untuk memutus siklus pembajakan hukum oleh kelompok elit finansial dalam sistem demokrasi liberal.
+</Aside>
 
 ## 2. Strategi Autonomi Geopolitik di Tengah Krisis Multipolar
 
@@ -22,6 +34,10 @@ Melalui analisis *Mafāhīm Siyāsiyyah*, kita belajar bagaimana Madinah yang ke
 Pergeseran doktrin militer abad ini melahirkan *Fifth-Generation Warfare* (perang generasi kelima) yang bertumpu pada perang urat syaraf digital (*cyber operations*) dan perang kognitif (*cognitive warfare*).
 
 Sebagaimana dibedah oleh Jenderal Mahmud Syit Khattab dalam *Ar-Rasul al-Qa'id*, superioritas Madinah terletak pada integrasi sistem intelijen taktis yang responsif dan ketatnya *Operational Security* (OPSEC) seperti pada peristiwa *Fathu Makkah*. Di era modern, meneladani strategi prophetik berarti membangun kedaulatan siber (*cyber sovereignty*) yang tangguh, mengamankan data rahasia negara, serta membina literasi politik-ideologis warga negara agar memiliki imunitas dari infodemik dan propaganda asing.
+
+<Aside type="danger" title="Tantangan Kontemporer: Cyber & Cognitive Warfare">
+  Di era modern, pertahanan negara tidak lagi terbatas pada batas fisik kinetik. Membangun kedaulatan siber (*cyber sovereignty*) dan menjaga ketahanan kognitif warga negara dari infiltrasi propaganda asing adalah kewajiban mutlak *Siyasah Syar'iyyah* kontemporer demi menjaga kedaulatan berpikir umat.
+</Aside>
 
 ## Kesimpulan Akhir
 

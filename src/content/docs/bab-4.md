@@ -7,6 +7,14 @@ description: "Analisis komprehensif Perjanjian Hudaibiyah dari dimensi historiog
 
 Pada tahun ke-6 Hijriah, konstelasi politik di Jazirah Arab mencapai titik ekuilibrium yang tegang. Negara Islam di Madinah telah membuktikan eksistensinya melalui serangkaian konfrontasi fisik (Badar, Uhud, Ahzab), namun belum mendapatkan pengakuan *de jure* dari entitas politik paling berpengaruh di Arab: Quraisy Makkah. Dalam situasi inilah, Nabi Muhammad ﷺ melakukan manuver diplomasi tingkat tinggi melalui peristiwa yang kelak dikenal sebagai Perjanjian Hudaibiyah. Manuver ini bukan sekadar perjalanan spiritual (umrah), melainkan sebuah operasi geopolitik yang dirancang untuk memecah kebuntuan militer dan membuka front dakwah internasional.
 
+<Aside type="tip" title="Poin Utama Bab Ini (TL;DR)">
+  - **Kemenangan Diplomatik (*De Jure*):** Melalui meja perundingan, Makkah secara otomatis memberikan pengakuan resmi (*state recognition*) terhadap kedaulatan Daulah Madinah.
+  - **Konsesi Strategis:** Mengorbankan poin-poin taktis jangka pendek (klausul imigrasi yang asimetris) demi keuntungan ruang dakwah damai jangka panjang.
+  - **Netralisasi Front Pertempuran:** Mengamankan perbatasan selatan (Makkah) untuk membebaskan konsentrasi militer membersihkan ancaman aliansi Yahudi Khaybar di utara.
+</Aside>
+
+---
+
 ## Kronologi Intelijen dan Taktik Lapangan
 
 Perjalanan 1.400 sahabat menuju Makkah tanpa perlengkapan tempur penuh (hanya pedang dalam sarungnya) adalah sebuah "diplomasi unjuk kekuatan damai". Syaikh Shafiyurrahman Al-Mubarakfuri dalam *Ar-Rahiq al-Makhtum* memetakan secara detail bahwa pergerakan ini segera direspons oleh Quraisy dengan memobilisasi pasukan kavaleri di bawah pimpinan Khalid bin Walid untuk mencegat rombongan di Kura' Al-Ghamim. 
@@ -20,6 +28,10 @@ Ketika Utsman bin Affan dikirim sebagai utusan diplomatik ke Makkah dan terdenga
 Pola pembentukan pemikiran politik (*At-Tafkīr*) yang ditanamkan sejak Darul Arqam terbukti sukses. Para sahabat menunjukkan ketaatan mutlak kepada komando negara. Saat perundingan dengan Suhail bin Amr menghasilkan pasal-pasal yang secara kasat mata sangat merugikan pihak Muslim—seperti kewajiban mengembalikan orang Makkah yang lari ke Madinah, sementara Quraisy tidak wajib mengembalikan orang Madinah—terjadilah guncangan psikologis hebat, bahkan pada sosok sekuat Umar bin Khattab. 
 
 Al-Bouthi menjelaskan bahwa di sinilah letak *fiqh dakwah* dan kepemimpinan politik: visi seorang Kepala Negara (Rasulullah ﷺ) melampaui sentimen emosional rakyatnya. Beliau melihat kemenangan strategis jangka panjang di balik konsesi taktis jangka pendek.
+
+<Aside type="note" title="Perspektif Siyasah: Visi Supra-Taktis">
+  Kepemimpinan politik yang matang (*Siyasah Syar'iyyah*) menuntut kemampuan seorang Kepala Negara untuk mengabaikan tekanan emosional publik demi mengamankan maslahat jangka panjang yang jauh lebih besar.
+</Aside>
 
 ## Kedaulatan Negara dan Hukum Internasional (Siyar)
 

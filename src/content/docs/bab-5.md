@@ -29,7 +29,9 @@ Isi surat Rasulullah ﷺ sangat ringkas, tajam, dan disesuaikan dengan psikologi
 
 Kepada Heraklius, yang merupakan ahli kitab dan mengerti teologi, Nabi ﷺ menggunakan pendekatan rasional-teologis: *"Aslim taslam..."* (Masuk Islamlah, engkau akan selamat), seraya memanggilnya dengan gelar penghormatan *"Aziim ar-Ruum"* (Pembesar Romawi). Namun, kepada Kisra Persia yang dikenal arogan dan menuhankan kekuasaan, pesannya jauh lebih lugas dan definitif. Ketika Kisra merobek surat tersebut, Rasulullah ﷺ mengeluarkan fatwa geopolitik yang kelak terbukti: *"Allah akan merobek-robek kerajaannya."* 
 
-Pendekatan ini menunjukkan *fiqh dakwah* yang sangat adaptif. Rasulullah ﷺ memposisikan dirinya sebagai Kepala Negara yang setara (bahkan secara ideologis lebih tinggi), tanpa harus menggunakan diksi provokatif yang tidak perlu, namun tetap menjaga wibawa kedaulatan Islam.
+<Aside type="note" title="Perspektif Siyasah: Diplomasi Komunikasi">
+  Pendekatan ini menunjukkan *fiqh dakwah* yang sangat adaptif. Rasulullah ﷺ memposisikan dirinya sebagai Kepala Negara yang setara (bahkan secara ideologis lebih tinggi), tanpa harus menggunakan diksi provokatif yang tidak perlu, namun tetap menjaga wibawa kedaulatan Islam.
+</Aside>
 
 ## 4. Legitimasi Hukum Internasional (Siyar) dan Kemaslahatan Universal
 

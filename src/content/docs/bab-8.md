@@ -9,6 +9,14 @@ Kajian terhadap sirah nabawiyah sering kali terjebak pada romantisisme historis 
 
 Bab ini mensintesiskan seluruh kerangka diplomasi dan strategi politik Nabi ﷺ dan memproyeksikannya ke dalam diskursus tata negara dan geopolitik era modern.
 
+<Aside type="tip" title="Poin Utama Bab Ini (TL;DR)">
+  - **Supremasi Hukum Substantif:** Memisahkan kedaulatan hukum (*siyadah* pada Syara') dari otoritas eksekutif (*sulthan* pada umat) untuk mencegah tirani dan pembajakan undang-undang oleh oligarki.
+  - **Otonomi Strategis Multipolar:** Menolak postur negara satelit (*proxy state*) dengan mempertahankan kemandirian ideologi di hadapan pergeseran kekuatan global.
+  - **Kedaulatan Sumber Daya:** Pengelolaan hajat hidup publik sebagai kepemilikan umum (*milkiyah 'ammah*) untuk membendung gelombang kapitalisme predator.
+</Aside>
+
+---
+
 ## 1. Konstitusionalisme dan Kedaulatan Hukum (Rule of Law)
 
 Krisis terbesar negara modern saat ini adalah tirani mayoritas atau sebaliknya, oligarki minoritas yang membajak hukum demi kepentingan elit. Jauh sebelum era pencerahan Eropa, Negara Madinah telah memecahkan masalah ini melalui supremasi hukum yang mengikat seluruh elemen warga negara tanpa pandang bulu.
@@ -33,7 +41,9 @@ Sebagaimana diulas An-Nabhani dalam *Aj-Jihaz al-Idari li ad-Daulah al-Islamiyya
 
 Di sektor ekonomi, Syaikh Taqiyuddin an-Nabhani dalam *Nizhām al-Iqtishādi fī al-Islām* membedah bagaimana integrasi ekonomi Muhajirin-Anshar dan pelarangan riba menghancurkan oligarki kapitalis Yahudi di Madinah. Konsep kepemilikan umum (*milkiyah 'ammah*) atas sumber daya strategis (seperti air, padang rumput/hutan, dan energi/api) yang tidak boleh diswastanisasi, menjadi antitesis yang sangat relevan terhadap gelombang privatisasi paksa dan kapitalisme predator di era modern. Negara memegang kendali atas distribusi kekayaan demi kepentingan publik.
 
-Hal ini bersinggungan langsung dengan prinsip *Mashlahah Mursalah* yang ditekankan oleh Ibnu Taimiyah dalam *As-Siyasah asy-Syar'iyyah*. Pemimpin tidak diperbolehkan mengambil kebijakan fiskal atau politik yang merugikan rakyat, karena "tindakan seorang pemimpin atas rakyatnya bergantung pada kemaslahatan" (*Tasharruf al-Imam 'ala ar-Ra'iyyah manuthun bi al-mashlahah*).
+<Aside type="danger" title="Kaidah Siyasah: Akuntabilitas Kebijakan">
+  Ibnu Taimiyah dalam *As-Siyasah asy-Syar'iyyah* menegaskan kaidah hukum publik fundamental: *"Tasharruf al-Imam 'ala ar-Ra'iyyah manuthun bi al-mashlahah"* (Tindakan seorang pemimpin atas rakyatnya wajib terikat mutlak pada kemaslahatan). Setiap kebijakan tata kelola atau fiskal yang mencederai kepentingan publik secara otomatis cacat secara konstitusional.
+</Aside>
 
 ## 4. Ketahanan Ideologis dan Mindset (Cognitive Warfare)
 

@@ -9,6 +9,14 @@ Dalam kajian sejarah militer dan politik Islam, kemenangan yang diraih oleh Rasu
 
 Penguasaan informasi ini menjadi tulang punggung pertahanan negara, mencegah ancaman internal, sekaligus memproyeksikan kekuatan ke luar Jazirah Arab.
 
+<Aside type="tip" title="Poin Utama Bab Ini (TL;DR)">
+  - **Intelijen Taktis & Analisis Logistik:** Kemampuan mengonversi data kualitatif lapangan (rasio sembelihan unta di Badar) menjadi metrik kuantitatif kekuatan riil militer musuh.
+  - **Kontra-Intelijen (OPSEC):** Penguncian total akses rute informasi (*information blackout*) pada peristiwa Fathu Makkah demi meruntuhkan mental lawan tanpa pertumpahan darah.
+  - **Sentralisasi Informasi Geopolitik:** Pemetaan berkala dari para Wali di daerah ke pusat komando Madinah sebagai *early warning system* dari disrupsi domestik.
+</Aside>
+
+---
+
 ## 1. Intelijen Taktis: Mata-Mata dan Pemetaan Kekuatan Musuh
 
 Sebelum pecah pertempuran bersenjata, Rasulullah ﷺ selalu memastikan bahwa asimetri informasi berada di pihak kaum Muslimin. Jenderal Mahmud Syit Khattab dalam karyanya *Ar-Rasul al-Qa'id* mengulas secara mendalam kepiawaian Nabi ﷺ dalam manajemen intelijen. Khattab menegaskan bahwa Rasulullah ﷺ tidak pernah menggerakkan pasukan secara serampangan tanpa mengirim unit pengintai (*tali'ah*) atau satuan patroli kecil (*sariyyah*) terlebih dahulu. 
@@ -21,7 +29,9 @@ Selain mengumpulkan informasi musuh, seni intelijen Nabi ﷺ mencakup perlindung
 
 Dr. M. Sa'id Ramadan Al-Bouthi dalam *Fiqh as-Sirah* membedah hikmah di balik kebijakan politik penutupan akses informasi ini. Rasulullah ﷺ menginstruksikan agar perbatasan Madinah dikunci, memblokir seluruh rute komunikasi menuju Makkah, dan bahkan menyembunyikan tujuan akhir pergerakan pasukan dari panglima-panglimanya sendiri hingga saat-saat terakhir. Menurut Al-Bouthi, fiqh dakwah dari operasi kontra-intelijen ini sangat mulia: yaitu elemen kejutan (Element of Surprise) mutlak diperlukan bukan untuk membantai musuh, melainkan untuk meruntuhkan mental tempur mereka seketika, sehingga Makkah dapat ditaklukkan tanpa pertumpahan darah.
 
-Dari sisi hukum publik, kebijakan penyensoran informasi demi keamanan negara ini sejalan dengan kaidah yang dijelaskan oleh Ibnu Taimiyah dalam *As-Siyasah asy-Syar'iyyah*. Pemimpin negara berhak dan wajib mengambil tindakan pembatasan tertentu (termasuk memantau intelijen musuh di dalam negeri) demi mewujudkan kemaslahatan publik (*Mashlahah Mursalah*) dan mencegah kebocoran rahasia negara yang dapat membinasakan umat.
+<Aside type="danger" title="Perspektif Siyasah: Keamanan Informasi dan Negara">
+  Dari sisi hukum publik, kebijakan penyensoran informasi demi keamanan negara ini sejalan dengan kaidah yang dijelaskan oleh Ibnu Taimiyah dalam *As-Siyasah asy-Syar'iyyah*. Pemimpin negara berhak dan wajib mengambil tindakan pembatasan tertentu (termasuk memantau intelijen musuh di dalam negeri) demi mewujudkan kemaslahatan publik (*Mashlahah Mursalah*) dan mencegah kebocoran rahasia negara yang dapat membinasakan umat.
+</Aside>
 
 ## 3. Intelijen Geopolitik: Membaca Peta Kekuatan Adidaya
 

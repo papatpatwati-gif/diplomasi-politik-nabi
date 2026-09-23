@@ -9,6 +9,14 @@ Ujian tertinggi bagi kedaulatan sebuah negara bukanlah saat ia melakukan ekspans
 
 Bab ini membedah bagaimana Rasulullah ﷺ bertindak sebagai Kepala Negara dan Panglima Tertinggi dalam memanajemen krisis (*crisis management*), menerapkan strategi pertahanan hibrida, dan menggunakan operasi intelijen untuk menghancurkan koalisi musuh dari dalam.
 
+<Aside type="tip" title="Poin Utama Bab Ini (TL;DR)">
+  - **Manajemen Krisis & Peringatan Dini:** Mengonversi informasi intelijen hulu menjadi keputusan defensif hibrida (Parit Khandaq) untuk menetralkan superioritas kavaleri musuh.
+  - **Reframing Kognitif / Psikologis:** Mengalihkan kepanikan massa di tengah blokade total dengan memproyeksikan visi penaklukan global adidaya (Romawi & Persia).
+  - **Disrupsi Aliansi Asimetris:** Memecah belah soliditas koalisi makro musuh dari dalam menggunakan operasi psikologis (PsyOps) dan penyesatan informasi taktis.
+</Aside>
+
+---
+
 ## 1. Intelijen Peringatan Dini dan Strategi Pertahanan (Khandaq)
 
 Keberhasilan manajemen krisis selalu dimulai dari peringatan dini (*early warning system*). Sebagaimana dicatat oleh Syaikh Shafiyurrahman Al-Mubarakfuri dalam *Ar-Rahiq al-Makhtum*, intelijen Madinah berhasil mendeteksi pergerakan masif koalisi Ahzab sebelum mereka mencapai perbatasan kota. Informasi intelijen yang akurat ini memberi Rasulullah ﷺ waktu krusial untuk mengonsolidasikan pertahanan.
@@ -30,6 +38,10 @@ Manajemen krisis ala Nabi ﷺ tidak hanya defensif secara fisik, tetapi juga san
 An-Nabhani dalam *Mafāhīm Siyāsiyyah & At-Takatul al-Hizbi* membedah manuver diplomasi rahasia ini. Rasulullah ﷺ mengkapitalisasi masuk Islamnya Nu'aim bin Mas'ud—seorang tokoh Ghatafan yang keislamannya belum diketahui oleh pihak musuh. Nabi ﷺ menginstruksikan Nu'aim, *"Engkau hanyalah seorang diri di tengah kami, maka buatlah tipu daya (untuk memecah belah) musuh sebisa mungkin, karena sesungguhnya perang adalah tipu daya."*
 
 Nu'aim berhasil menanamkan benih kecurigaan antara Quraisy, Ghatafan, dan Bani Quraizhah. Ibnu Taimiyah dalam *As-Siyasah asy-Syar'iyyah* memberikan justifikasi kuat terhadap taktik ini. Operasi intelijen penyesatan (*deception*) dan perang urat syaraf (*psy-war*) dihalalkan dalam kondisi perang (*Siyar*) demi mewujudkan *Mashlahah Mursalah* yang paling esensial: menyelamatkan nyawa umat dan kedaulatan negara dari kehancuran total.
+
+<Aside type="danger" title="Perspektif Siyasah: Hukum Deception & Intelijen Subversif">
+  Dalam ketatanegaraan Islam (*Siyasah Syar'iyyah*), operasi penyesatan informasi (*information warfare*) dan subversi psikologis dihalalkan penuh di masa perang aktif (*Siyar*) jika hal itu menjadi satu-satunya instrumen untuk mencegah genosida umat (*dar'ul mafasid*) dan meruntuhkan koalisi musuh tanpa konfrontasi berdarah masif.
+</Aside>
 
 ## 4. Kedaulatan Konstitusional dan Penindakan Makar Internal
 

@@ -19,11 +19,17 @@ Salah satu revolusi politik terbesar dari Piagam Madinah adalah pasal yang menya
 
 Dalam perspektif tata negara, Syaikh Taqiyuddin an-Nabhani dalam *Nizhām al-Hukm fī al-Islām* menjelaskan bahwa ini adalah momen transisi dari sistem kesukuan (*asabiyyah*) menuju sistem kenegaraan yang diikat oleh kesamaan ideologi (*aqidah*). Ikatan darah digantikan oleh ikatan akidah bagi kaum Muslimin, sementara bagi warga non-Muslim (Yahudi), ikatan yang berlaku adalah ikatan ketundukan pada otoritas politik (kewarganegaraan). Hal ini sejalan dengan analisis an-Nabhani dalam *At-Tafkīr*, di mana *mindset* (pola pikir) sahabat yang telah dibina sejak fase Darul Arqam di Makkah kini diaktualisasikan dalam bentuk kesadaran bernegara yang rasional dan ideologis.
 
-Dr. Muhammad Hamidullah dalam *The First Written Constitution in the World* secara tegas membuktikan bahwa Piagam Madinah adalah konstitusi tertulis pertama di dunia, mendahului *Magna Carta* di Inggris ratusan tahun lamanya. Konstitusi ini secara sistematis mendefinisikan hak, kewajiban, serta batas wilayah kedaulatan negara (teritori).
+<Aside type="note" title="Analisis Konstitusional">
+  Dr. Muhammad Hamidullah dalam *The First Written Constitution in the World* secara tegas membuktikan bahwa Piagam Madinah adalah konstitusi tertulis pertama di dunia, mendahului *Magna Carta* di Inggris ratusan tahun lamanya. Konstitusi ini secara sistematis mendefinisikan hak, kewajiban, serta batas wilayah kedaulatan negara (teritori).
+</Aside>
 
 ## 3. Sentralisasi Otoritas dan Supremasi Hukum
 
 Piagam Madinah mencabut hak main hakim sendiri (*vigilantisme*) yang lazim pada tradisi Arab pra-Islam dan menyerahkan yurisdiksi hukum kepada negara. Konstitusi menetapkan: *"Dan apa saja yang kalian perselisihkan, maka kembalikanlah kepada Allah 'Azza wa Jalla dan kepada Muhammad ﷺ."*
+
+<Aside type="danger" title="Perspektif Siyasah: Monopoli Hukum">
+  Pencabutan hak *vigilantisme* dan pemusatan yurisdiksi pada negara adalah langkah awal pembentukan kedaulatan hukum (*siyadah*). Tanpa adanya monopoli penegakan hukum oleh otoritas pusat, sebuah entitas politik hanya akan menjadi arena konflik horizontal yang rapuh.
+</Aside>
 
 Imam Al-Mawardi dalam karyanya *Al-Ahkam as-Sultaniyyah* meletakkan prinsip dasar bahwa kedaulatan (*siyadah*) berada di tangan Syara', sementara kekuasaan (*sulthan*) berada di tangan umat yang didelegasikan kepada Kepala Negara. Pasal ini secara *de jure* menjadikan Nabi Muhammad ﷺ sebagai Kepala Negara, Panglima Tertinggi, dan Hakim Agung. 
 

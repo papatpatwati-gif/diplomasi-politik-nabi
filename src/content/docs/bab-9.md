@@ -5,6 +5,14 @@ description: "Kajian mendalam terhadap Khutbah Wada' sebagai manifesto hak asasi
 
 Pada penghujung tahun ke-10 Hijriah, Rasulullah ﷺ melaksanakan Haji Wada' (Haji Perpisahan) yang dihadiri oleh lebih dari 100.000 kaum Muslimin. Di Padang Arafah, beliau menyampaikan sebuah pidato monumental yang dikenal sebagai **Khutbah Wada'**. Dalam perspektif *Siyasah Syar'iyyah* dan hukum ketatanegaraan internasional, khutbah ini bukanlah sekadar pesan moral keagamaan biasa, melainkan sebuah Proklamasi Magna Carta Islam universal yang meletakkan dasar bagi hak asasi manusia substantif serta tata kelola peradaban dunia yang berkeadilan.
 
+<Aside type="tip" title="Poin Utama Bab Ini (TL;DR)">
+  - **Perlindungan Hak Dasar Substantif:** Deklarasi kesucian darah, harta, dan kehormatan sebagai pilar mutlak stabilitas keamanan nasional (*amal al-daulah*).
+  - **Egalitarianisme Global:** Menghancurkan sekat rasialisme dan chauvinisme kesukuan (*‘ashabiyyah*), menggantikannya dengan ikatan ideologis ketakwaan.
+  - **Keadilan Distribusi Fiskal:** Penghapusan riba secara total guna membendung sirkulasi kapitalisme predator dan monopoli kekayaan oleh segelintir oligarki.
+</Aside>
+
+---
+
 ## 1. Perlindungan Hak Hidup, Kehormatan, dan Hak Milik (Property Rights)
 
 Rasulullah ﷺ membuka khutbahnya dengan sebuah deklarasi hukum publik yang tegas: *"Sesungguhnya darah kalian, harta kalian, dan kehormatan kalian adalah suci atas kalian, seperti sucinya hari kalian ini, di bulan kalian ini, di negeri kalian ini."*
