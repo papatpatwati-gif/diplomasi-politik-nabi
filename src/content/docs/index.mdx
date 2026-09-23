@@ -119,6 +119,26 @@ import { Card, CardGrid } from '@astrojs/starlight/components';
 	}
 `}</style>
 
+<script is:inline>{`
+  (function() {
+    function updateHeroButton() {
+      const isVerified = localStorage.getItem('dpn_user_verified') === 'true';
+      if (isVerified) {
+        // Mencari semua tautan (anchor) di halaman
+        const buttons = document.querySelectorAll('a');
+        buttons.forEach(btn => {
+          if (btn.innerText && btn.innerText.includes('Mulai Membaca')) {
+            // Mengganti teks tanpa merusak elemen ikon di dalamnya
+            btn.innerHTML = btn.innerHTML.replace('Mulai Membaca', 'Lanjutkan Membaca');
+          }
+        });
+      }
+    }
+    updateHeroButton();
+    window.addEventListener('load', updateHeroButton);
+  })();
+`}</script>
+
 <div id="topik-utama"></div>
 
 ## Pengantar Kajian Strategis

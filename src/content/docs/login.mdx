@@ -33,42 +33,45 @@ Selamat datang di area akses terbatas. Untuk melanjutkan membaca **Bab 2 hingga 
   </div>
 </div>
 
-<script>
-  const loginForm = document.getElementById('loginForm');
-  if (loginForm) {
-    loginForm.addEventListener('submit', (e) => {
-      e.preventDefault();
-      const name = document.getElementById('userName').value;
-      const phone = document.getElementById('userWA').value;
-      const code = document.getElementById('accessCode').value;
+<script is:inline>{`
+  (function() {
+    const loginForm = document.getElementById('loginForm');
+    if (loginForm) {
+      loginForm.addEventListener('submit', (e) => {
+        e.preventDefault();
+        const name = document.getElementById('userName').value;
+        const phone = document.getElementById('userWA').value;
+        const code = document.getElementById('accessCode').value;
 
-      // Kode Akses Statis (Silakan ganti 'KHIDMAH2026' dengan kode pilihan Anda)
-      const secretCode = 'KHIDMAH2026';
-      const adminNumber = '6285794506290';
-      
-      if (code !== secretCode) {
-        alert('Maaf, kode akses yang Anda masukkan salah. Silakan hubungi Admin untuk mendapatkan kode akses eksklusif.');
-        return;
-      }
+        // Kode Akses Statis (Silakan ganti 'KHIDMAH2026' dengan kode pilihan Anda)
+        const secretCode = 'KHIDMAH2026';
+        const adminNumber = '6285794506290';
+        
+        if (code !== secretCode) {
+          alert('Maaf, kode akses yang Anda masukkan salah. Silakan hubungi Admin untuk mendapatkan kode akses eksklusif.');
+          return;
+        }
 
-      // Simpan status verifikasi di localStorage browser
-      localStorage.setItem('dpn_user_verified', 'true');
-      localStorage.setItem('dpn_user_name', name);
-      
-      // Buat URL WhatsApp dengan pesan otomatis
-      const message = `Halo Admin, saya ${name} (${phone}) ingin membuka akses penuh buku Diplomasi & Strategi Politik ala Nabi.`;
-      const waUrl = `https://wa.me/${adminNumber}?text=${encodeURIComponent(message)}`;
-      
-      // Buka WhatsApp di tab baru untuk mengirim data ke admin
-      window.open(waUrl, '_blank');
-      
-      // Alihkan pengguna ke Bab 2 atau ke halaman yang sebelumnya mereka coba akses
-      const params = new URLSearchParams(window.location.search);
-      const returnTo = params.get('returnTo') || '/bab-2/';
-      window.location.href = returnTo;
-    });
-  }
-</script>
+        // Simpan status verifikasi di localStorage browser
+        localStorage.setItem('dpn_user_verified', 'true');
+        localStorage.setItem('dpn_user_name', name);
+        
+        // Buat URL WhatsApp dengan pesan otomatis
+        // Gunakan penggabungan string (+) daripada template literals untuk menghindari error parsing MDX
+        const message = 'Halo Admin, saya ' + name + ' (' + phone + ') ingin membuka akses penuh buku Diplomasi & Strategi Politik ala Nabi.';
+        const waUrl = 'https://wa.me/' + adminNumber + '?text=' + encodeURIComponent(message);
+        
+        // Buka WhatsApp di tab baru untuk mengirim data ke admin
+        window.open(waUrl, '_blank');
+        
+        // Alihkan pengguna ke Bab 2 atau ke halaman yang sebelumnya mereka coba akses
+        const params = new URLSearchParams(window.location.search);
+        const returnTo = params.get('returnTo') || '/bab-2/';
+        window.location.href = returnTo;
+      });
+    }
+  })();
+`}</script>
 
 <style>{`
   .login-container {
